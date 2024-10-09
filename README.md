@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Programming Projects:</h2>
 <br/><a href="https://github.com/stars/bexgif/lists/programming-projects">Basic Programming Projects</a>
+<br/><a href="https://github.com/stars/bexgif/lists/advanced-programming-projects">Advanced Programming Projects</a>
 
 
 <h2>💲Something Else </h2>
