@@ -2,6 +2,6 @@
 
 <h2>👨‍💻 Programming Projects:</h2>
 
-<h2>💲Trade ideas + market analysis (updated monthly)</h2>
+<h2>💲</h2>
 
-<h2> 💱Trades taken in previous month</h2>
+<h2>💱Trades taken in previous month</h2>
