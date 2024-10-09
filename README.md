@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Programming Projects:</h2>
 
+-  <br/><a href="https://github.com/bexgif">Basic Programming Projects</a>,
+
 <h2>💲</h2>
 
 <h2>💱Trades taken in previous month</h2>
