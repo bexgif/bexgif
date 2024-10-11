@@ -8,4 +8,4 @@
 
 <h2>💲Something Else </h2>
 
-<h2>💱Trades taken in previous month</h2>
+<h2><a href="https://www.notion.so/Trading-Journal-b7d223851fc64cb895026874b35b4522?pvs=4">Trade Log</a></h2>
