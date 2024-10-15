@@ -6,9 +6,11 @@
 
 <br/><a href="https://github.com/stars/bexgif/lists/basic-programming-projects"> ‣ Basic Programming Projects</a>
 
-<br/><a href="https://github.com/stars/bexgif/lists/advanced-programming-projects"> ‣ Advanced Programming Projects</a>
 
-<br/>
+<h2>👨‍💻 Quantitative Projects:</h2>
+
+<br/><a href="https://github.com/stars/bexgif/lists/advanced-programming-projects"> ‣ Sharpe Ratio Optimisation in Portfolio Management</a>
+
 
 <h2> 💹 Trade Log:</h2>
 
