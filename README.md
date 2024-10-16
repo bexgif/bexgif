@@ -9,7 +9,7 @@
 
 <h2>👨‍💻 Quantitative Projects:</h2>
 <ul>
-   <li><a href="https://github.com/stars/bexgif/lists/advanced-programming-projects">  Sharpe Ratio Optimisation in Portfolio Management</a></li>
+   <li><a href="https://github.com/bexgif/Sharpe-Ratio-Optimisation-in-Portfolio-Management">  Sharpe Ratio Optimisation in Portfolio Management</a></li>
 </ul>
 
 <h2> 💹 Trade Log:</h2>
