@@ -14,7 +14,7 @@
 
 <h2> 💹 Trade Log:</h2>
 <ul>
-  <li><a href="https://imgur.com/gallery/october-2024-AMglaQ5">  October 2024</a></li>
+  <li><a href="https://imgur.com/a/october-2024-trade-log-AMglaQ5">  October 2024</a></li>
 </ul>
 
 
