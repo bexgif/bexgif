@@ -4,7 +4,6 @@
 <ul>
     <li><a href="https://github.com/stars/bexgif/lists/data-analysis-projects">Data Analysis Projects</a></li>
     <li><a href="https://github.com/stars/bexgif/lists/basic-programming-projects">Basic Programming Projects</a></li>
-    <li><a href= " ">Web Design Projects</a></li>
 </ul>
 
 
@@ -12,6 +11,7 @@
 <ul>
    <li><a href="https://github.com/bexgif/Sharpe-Ratio-Optimisation-in-Portfolio-Management">  Sharpe Ratio Optimisation in Portfolio Management</a></li>
    <li><a href="https://github.com/bexgif/Black-Scholes-Option-Pricing-Model">  Black Scholes - Option Pricing Model</a></li>
+   <li><a href=" ">  Trading Bot</a></li>
 </ul>
 
 <h2> 💹 Trade Log:</h2>
