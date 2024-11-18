@@ -10,9 +10,6 @@
 <ul>
    <li><a href="https://github.com/bexgif/Sharpe-Ratio-Optimisation-in-Portfolio-Management">  Sharpe Ratio Optimisation in Portfolio Management</a></li>
    <li><a href="https://github.com/bexgif/Black-Scholes-Option-Pricing-Model">  Black Scholes - Option Pricing Model</a></li>
-   <li><a >  Trading Bot</a></li>
-    <li><a >  ML project</a></li>
-    <li><a >  Algorithm</a></li>
 </ul>
 
 <h2> 💹 Trade Log:</h2>
