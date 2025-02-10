@@ -14,7 +14,7 @@
 
 <h2> 💹 Trade Log:</h2>
 <ul>
-  <li><a href="https://imgur.com/a/october-2024-6IthyoD">  October 2024</a></li>
+  <li><a href="https://imgur.com/a/january-2025-mSZNRw4">  January 2025</a></li>
 </ul>
 
 
