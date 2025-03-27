@@ -11,10 +11,3 @@
    <li><a href="https://github.com/bexgif/Sharpe-Ratio-Optimisation-in-Portfolio-Management">  Sharpe Ratio Optimisation in Portfolio Management</a></li>
    <li><a href="https://github.com/bexgif/Black-Scholes-Option-Pricing-Model">  Black Scholes - Option Pricing Model</a></li>
 </ul>
-
-<h2> 💹 Trade Log:</h2>
-<ul>
-  <li><a href="https://imgur.com/a/january-2025-mSZNRw4">  January 2025</a></li>
-</ul>
-
-
