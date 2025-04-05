@@ -15,5 +15,5 @@
 
 <h3>👨‍💻 University Projects:</h3>
 <ul>
-   <li><a href="https://github.com/bexgif/Sharpe-Ratio-Optimisation-in-Portfolio-Management">  AI Powered Stock Portfolio Optimiser</a></li>
+   <li><a href="https://github.com/bexgif/stock-portfolio-optimiser">  AI Powered Stock Portfolio Optimiser</a></li>
 </ul>
