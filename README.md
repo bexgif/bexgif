@@ -16,4 +16,5 @@
 <h3>👨‍💻 University Projects:</h3>
 <ul>
    <li><a href="https://github.com/bexgif/stock-portfolio-optimiser">  AI Powered Stock Portfolio Optimiser</a></li>
+   <li><a href="https://github.com/bexgif/brain-mri-tumour-detection/tree/main">  Brain MRI Tumour Detection Tool</a></li>
 </ul>
