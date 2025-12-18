@@ -19,6 +19,6 @@
    <li><a href="https://github.com/bexgif/brain-mri-tumour-detection/tree/main">  Brain MRI Tumour Detection Tool</a></li>
    <li><a href="https://github.com/bexgif/machine_learning_naov6">  Machine Learning-Driven Emotional Weather NAO V6</a></li>
    <li><a href="">   **WIP** Cybersecurity Escape Rooms</a></li>
-   <li><a href="">   **WIP** Web-based Investing Game</a></li>
-   <li><a href="">   **WIP** Tobii Pro - Smart Glasses</a></li>
+   <li><a href="">   **WIP** AI-Driven Investing Game</a></li>
+   <li><a href="">   **WIP** User Attention Analysis Using Tobii Pro Eye-Tracking</a></li>
 </ul>
