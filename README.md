@@ -18,6 +18,7 @@
    <li><a href="https://github.com/bexgif/stock-portfolio-optimiser">  AI Powered Stock Portfolio Optimiser</a></li>
    <li><a href="https://github.com/bexgif/brain-mri-tumour-detection/tree/main">  Brain MRI Tumour Detection Tool</a></li>
    <li><a href="https://github.com/bexgif/machine_learning_naov6">  Machine Learning-Driven Emotional Weather NAO V6</a></li>
-   <li><a href="">   Applied Analytics: Datadriven Product Development</a></li>
-   <li><a href="">   Artificial Intelligence and Advanced Analytics</a></li>
+   <li><a href="">   **WIP** Cybersecurity Escape Rooms</a></li>
+   <li><a href="">   **WIP** Web-based Investing Game</a></li>
+   <li><a href="">   **WIP** Tobii Pro - Smart Glasses</a></li>
 </ul>
