@@ -1,24 +1,13 @@
 <h1>Hi, I'm Rebecca!
 <h2> Welcome to my GitHub.</h2>
 
-<h3>👨‍💻 Basic Programming Projects:</h3>
-<ul>
-    <li><a href="https://github.com/stars/bexgif/lists/data-analysis-projects">Data Analysis Projects</a></li>
-    <li><a href="https://github.com/stars/bexgif/lists/basic-programming-projects">Games & Websites</a></li>
-</ul>
-
-<h3>👨‍💻 Quantitative Projects:</h3>
-<ul>
-   <li><a href="https://github.com/bexgif/Sharpe-Ratio-Optimisation-in-Portfolio-Management">  Sharpe Ratio Optimisation in Portfolio Management</a></li>
-   <li><a href="https://github.com/bexgif/Black-Scholes-Option-Pricing-Model">  Black Scholes - Option Pricing Model</a></li>
-</ul>
-
-<h3>👨‍💻 University Projects:</h3>
+<h3>👨‍💻 Key Projects:</h3>
 <ul>
    <li><a href="https://github.com/bexgif/stock-portfolio-optimiser">  AI Powered Stock Portfolio Optimiser</a></li>
    <li><a href="https://github.com/bexgif/brain-mri-tumour-detection/tree/main">  Brain MRI Tumour Detection Tool</a></li>
    <li><a href="https://github.com/bexgif/machine_learning_naov6">  Machine Learning-Driven Emotional Weather NAO V6</a></li>
-   <li><a href="">   **WIP** Cybersecurity Escape Rooms</a></li>
-   <li><a href="">   **WIP** AI-Driven Investing Game</a></li>
-   <li><a href="">   **WIP** User Attention Analysis Using Tobii Pro Eye-Tracking</a></li>
+   <li><a href="https://github.com/bexgif/stock-investing-game/tree/main">  AI-Driven Investing Game</a></li>
+   <li><a href="">   WIP - Cybersecurity Escape Rooms</a></li>
+   <li><a href="">   WIP - Credit Risk Application </a></li>
+   <li><a href="">   WIP - User Attention Analysis Using Tobii Pro Eye-Tracking</a></li>
 </ul>
