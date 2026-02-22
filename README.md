@@ -1,7 +1,7 @@
 <h1>Hi, I'm Rebecca!
 <h2> Welcome to my GitHub.</h2>
 
-<h3>👨‍💻 Key Projects:</h3>
+<h3>👨‍💻 Key University Projects:</h3>
 <ul>
    <li><a href="https://github.com/bexgif/stock-portfolio-optimiser">  AI Powered Stock Portfolio Optimiser</a></li>
    <li><a href="https://github.com/bexgif/brain-mri-tumour-detection/tree/main">  Brain MRI Tumour Detection Tool</a></li>
