@@ -8,6 +8,6 @@
    <li><a href="https://github.com/bexgif/machine_learning_naov6">  Machine Learning-Driven Emotional Weather NAO V6</a></li>
    <li><a href="https://github.com/bexgif/stock-investing-game/tree/main">  AI-Driven Investing Game</a></li>
    <li><a href="https://github.com/bexgif/credit-risk-nn/tree/main"> Neural Network–Based Credit Risk Decision Support System</a></li>
-   <li><a href="">   WIP - Cybersecurity Escape Rooms</a></li>
+   <li><a href="https://github.com/bexgif/cybersecurityweb"> Cybersecurity Escape Rooms</a></li>
    <li><a href="">   WIP - User Attention Analysis Using Tobii Pro Eye-Tracking</a></li>
 </ul>
